@@ -1,7 +1,7 @@
 
 /*  game/////////////////////////////////////////////////////////// */
 body {
-  background: #000;
+  background: #111 !important;
   display: flex;
   flex-direction: column;
   justify-content: center;
