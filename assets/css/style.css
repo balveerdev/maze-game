@@ -94,6 +94,7 @@ body {
   .maze {
     transform: scale(0.7);
     transform-origin: top center;
+    margin-bottom: -29px;
   }
   .controls button {
     padding: 8px 12px;
@@ -107,6 +108,7 @@ body {
 @media (max-width: 480px) {
   .maze {
     transform: scale(0.5);
+     margin-bottom: -75px;
   }
   .controls {
     grid-gap: 5px;
